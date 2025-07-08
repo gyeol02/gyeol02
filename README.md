@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 ---
 
 ### Activities
-- **COMA** – Academic AI club focused on model-level learning  
-- **GDGoC** – Project-based club with weekly team presentations  
-- **DSCREW** – Small study group exploring AI fundamentals
+- **COMA** (Spring 2024)  
+  Studied a wide range of fundamental topics in artificial intelligence, including core theories and algorithms
+
+- **GDGoC** (Fall 2024 – Spring 2025)  
+  Participated in project-based learning using Kaggle datasets  
+  Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
+
+- **DSCREW** (Spring 2024 – Spring 2025)  
+  Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
 
 ---
 
