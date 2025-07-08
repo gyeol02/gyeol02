@@ -13,15 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Gyeol</h1>
-<p align="center">
-  AI Undergraduate @ The Catholic University of Korea<br>
-  Exploring Computer Vision and Beyond
-</p>
----
-<h1 align="center">Hi, I'm <span style="color:#4F8A8B;">Gyeol</span> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Student+%7C+Computer+Vision+Explorer;Learning+to+Learn+Deep+Learning;Building+What+I+Don't+Know+Yet" alt="Typing SVG" />
-</p>
+<p align="center"><strong>AI Undergraduate @ The Catholic University of Korea</strong><br>
+Exploring Computer Vision and Beyond</p>
 ---
 
 ### About
