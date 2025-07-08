@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 
 ---
 
-### Featured Projects
-- [`ResNet Classifier`]([https://github.com/gyeol02/DL_Study/ResNet])  
-  CIFAR-10 image classification using deep residual networks  
+### Featured STUDY
+- [`DL Practice`](https://github.com/gyeol02/DL_Study)  
+  Core deep learning models implemented and tested with PyTorch  
+  Includes experiments with MLP, CNNs, and optimization techniques
 
 ---
 
