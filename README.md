@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 <p align="center"><strong>AI Undergraduate @ The Catholic University of Korea</strong><br>
 Exploring Computer Vision and Beyond</p>
 
-<h1 align="center">Gyeol</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&color=000000&lines=AI+Undergraduate+%40+The+Catholic+University+of+Korea;Exploring+Computer+Vision+and+Beyond" alt="Typing SVG" />
-</p>
-
 ### About
 - Third-year student majoring in Artificial Intelligence
 - Currently studying core concepts of **Computer Vision**
