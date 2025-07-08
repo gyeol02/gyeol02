@@ -61,3 +61,7 @@ Here are some ideas to get you started:
   I was responsible for building the **LLM-based AI assistant**  
   that generates natural language summaries and helps manage schedules
 ---
+
+### Certificates
+- **EXAMPLE** – BlaBla (Expected 2025)  
+  Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
