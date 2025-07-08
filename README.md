@@ -12,40 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 깔끔하고 미니멀한 GitHub 프로필 README 예시 -->
-<h2 align="center">Hi 👋, I'm Gyeol</h2>
-<p align="center">A passionate student who loves machine learning and ultrasound signal processing</p>
-
----
-
-### 🧠 About Me
-- 🏫 3rd-year undergraduate majoring in AI
-- 🌱 Currently learning: PyTorch, Beamforming, MLP
-- 💡 Interested in: AI for Healthcare, Signal Processing, Deep Learning
-- 📫 How to reach me: [gogyeol@email.com](mailto:gogyeol@email.com)
-
----
-
-### 🔧 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<h1 align="center">Gyeol</h1>
+<p align="center">
+  AI Undergraduate @ The Catholic University of Korea<br>
+  Exploring Computer Vision and Beyond
 </p>
 
 ---
 
-### 📌 Featured Projects
-| Project | Description |
-|--------|-------------|
-| [ResNet Classifier](https://github.com/gogyeol/ResNet) | CIFAR-10 분류 모델. ResNet 구조 구현 및 성능 비교 |
-| [Ultrasound Beamformer](https://github.com/gogyeol/DAS-PyTorch) | Field II로 시뮬레이션된 데이터를 이용한 DAS 구현 |
-| [MLP Trainer](https://github.com/gogyeol/MLP-Torch) | 백지부터 구현한 Multilayer Perceptron 학습기 |
+### About
+- Third-year student majoring in Artificial Intelligence
+- Currently studying core concepts of **Computer Vision**
+- Open to diverse fields of AI to find what truly excites me
+- Passionate about learning through curiosity and practice
 
 ---
 
-### 📊 GitHub Stats
+### Activities
+- **COMA** – Academic AI club focused on model-level learning  
+- **GdgoC** – Project-based club with weekly team presentations  
+- **DSCREW** – Small study group exploring AI fundamentals
+
+---
+
+### Tech Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gogyeol&show_icons=true&theme=default"/>
+  <img src="https://img.shields.io/badge/Python-181717?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-181717?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/OpenCV-181717?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-181717?style=flat&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=F05032"/>
+</p>
+
+---
+
+### Featured Projects
+- [`ResNet Classifier`](https://github.com/gogyeol/ResNet)  
+  CIFAR-10 image classification using deep residual networks  
+- [`MLP from Scratch`](https://github.com/gogyeol/MLP-Torch)  
+  Custom PyTorch implementation of a multilayer perceptron  
+- [`DL Study Logs`](https://github.com/gogyeol/DL_Study)  
+  Notes and experiments from personal deep learning studies
+
+---
+
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gogyeol&show_icons=true&hide_title=true&hide_border=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyeol&layout=compact&hide_border=true&theme=default" width="48%"/>
 </p>
