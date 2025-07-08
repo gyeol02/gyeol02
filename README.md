@@ -52,8 +52,3 @@ Here are some ideas to get you started:
   Includes experiments with MLP, CNNs, and optimization techniques
 
 ---
-
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyeol02&show_icons=true&hide_title=true&hide_border=true&theme=default" width="48%"/>
-</p>
