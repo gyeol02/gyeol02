@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 ### Featured Projects
-- [`ResNet Classifier`]([https://github.com/gyeol02/DL_Study/ResNet](https://github.com/gyeol02/DL_Study/tree/main/ResNet))  
+- [`ResNet Classifier`]([https://github.com/gyeol02/DL_Study/ResNet])  
   CIFAR-10 image classification using deep residual networks  
 
 ---
