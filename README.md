@@ -50,5 +50,9 @@ Here are some ideas to get you started:
 - [`DL Practice`](https://github.com/gyeol02/DL_Study)  
   Core deep learning models implemented and tested with PyTorch  
   Includes experiments with MLP, CNNs, and optimization techniques
-
+  
+- [`Web-Based Scheduling App`](https://github.com/catholichak2024)  
+  Team collaboration tool developed as part of **GDGoC** club activity  
+  I was responsible for building the **LLM-based AI assistant**  
+  that generates natural language summaries and helps manage schedules
 ---
