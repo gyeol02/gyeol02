@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Activities
 - **COMA** – Academic AI club focused on model-level learning  
-- **GdgoC** – Project-based club with weekly team presentations  
+- **GDGoC** – Project-based club with weekly team presentations  
 - **DSCREW** – Small study group exploring AI fundamentals
 
 ---
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 ### Featured Projects
-- [`ResNet Classifier`](https://github.com/gogyeol/ResNet)  
+- [`ResNet Classifier`](https://github.com/gyeol02/DL_Study/ResNet)  
   CIFAR-10 image classification using deep residual networks  
 
 ---
