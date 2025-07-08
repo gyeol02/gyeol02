@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Gyeol</h1>
+<h1 align="center">Koh Gyeol</h1>
 <p align="center"><strong>AI Undergraduate @ The Catholic University of Korea</strong><br>
 Exploring Computer Vision and Beyond</p>
 
