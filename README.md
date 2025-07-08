@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Gyeol</h1>
 <p align="center"><strong>AI Undergraduate @ The Catholic University of Korea</strong><br>
 Exploring Computer Vision and Beyond</p>
----
 
 ### About
 - Third-year student majoring in Artificial Intelligence
