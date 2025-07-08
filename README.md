@@ -49,15 +49,11 @@ Here are some ideas to get you started:
 ### Featured Projects
 - [`ResNet Classifier`](https://github.com/gogyeol/ResNet)  
   CIFAR-10 image classification using deep residual networks  
-- [`MLP from Scratch`](https://github.com/gogyeol/MLP-Torch)  
-  Custom PyTorch implementation of a multilayer perceptron  
-- [`DL Study Logs`](https://github.com/gogyeol/DL_Study)  
-  Notes and experiments from personal deep learning studies
 
 ---
 
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gogyeol&show_icons=true&hide_title=true&hide_border=true&theme=default" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogyeol&layout=compact&hide_border=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gyeol02&show_icons=true&hide_title=true&hide_border=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeol02&layout=compact&hide_border=true&theme=default" width="48%"/>
 </p>
