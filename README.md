@@ -43,6 +43,8 @@ Exploring Computer Vision and Beyond</p>
   <img src="https://img.shields.io/badge/PyTorch-181717?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/Scikit--learn-181717?style=flat&logo=scikit-learn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
