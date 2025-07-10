@@ -53,7 +53,7 @@ Exploring Computer Vision and Beyond</p>
   Core deep learning models implemented and tested with PyTorch  
   Includes experiments with MLP, CNNs, and optimization techniques
   
-- [`EveryGrade`](https://github.com/catholichak2024)  
+- [`EveryGrade`]([https://github.com/catholichak2024](https://github.com/catholichak2024/.github/tree/main/profile))  
   Team collaboration tool developed as part of **GDGoC** club activity  
   I was responsible for building the **LLM-based AI assistant**  
   that generates natural language summaries and helps manage schedules
