@@ -25,15 +25,19 @@ Exploring Computer Vision and Beyond</p>
 ---
 
 ### Activities
-- **COMA** (Spring 2024)  
+- **COMA** (Spring 2024)   
   Studied a wide range of fundamental topics in artificial intelligence, including core theories and algorithms
 
-- **GDGoC** (Fall 2024 – Spring 2025)  
+- **GDGoC** (Fall 2024 – Spring 2025)   
   Participated in project-based learning using Kaggle datasets  
   Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
 
-- **DSCREW** (Spring 2024 – Spring 2025)  
+- **DSCREW** (Spring 2024 – Spring 2025)   
   Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
+
+- **BAIL LAP - DCL(Deep Coherence Learning)** (Winter 2024 - Present)   
+  Studying deep learning techniques to enhance ultrasound image resolution
+  Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
 
 ---
 
@@ -49,16 +53,22 @@ Exploring Computer Vision and Beyond</p>
 ---
 
 ### Featured STUDY
-- [`DL Practice`](https://github.com/gyeol02/DL_Study)  
+- [`DL Practice`](https://github.com/gyeol02/DL_Study)   
   Core deep learning models implemented and tested with PyTorch  
   Includes experiments with MLP, CNNs, and optimization techniques
   
-- [`EveryGrade`](https://github.com/catholichak2024/.github/tree/main/profile) \
-  Team collaboration tool developed as part of **GDGoC** club activity  
-  I was responsible for building the **LLM-based AI assistant**  
+- [`EveryGrade`](https://github.com/catholichak2024/.github/tree/main/profile)   
+  Team collaboration tool developed as part of **GDGoC** club activity
+  I was responsible for building the **LLM-based AI assistant**
   that generates natural language summaries and helps manage schedules
 ---
 
-### Certificates
-- **EXAMPLE** – BlaBla (Expected 2025)  
-  Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+### Certificates (Expected)
+- **ADSP (Advanced Data Science Professional)** – _Expected 2025_   
+  Studying data analysis, statistics, and data-based decision making.
+
+- **SQLD (SQL Developer)** – _Expected 2025_   
+  Preparing for relational database design and SQL query optimization.
+
+- **Linux Master Level 2** – _Expected 2025_   
+  Learning Linux system management, shell commands, and basic networking.
