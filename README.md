@@ -25,17 +25,17 @@ Exploring Computer Vision and Beyond</p>
 ---
 
 ### Activities
-- **COMA** (Spring 2024)   
+- **COMA** (2024.03 - 2024.11)   
   Studied a wide range of fundamental topics in artificial intelligence, including core theories and algorithms
+  
+- **DSCREW** (2024.03 – 2025.08)   
+  Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
 
-- **GDGoC** (Fall 2024 – Spring 2025)   
+- **GDGoC** (2024.08 – 2025.08)   
   Participated in project-based learning using Kaggle datasets  
   Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
 
-- **DSCREW** (Spring 2024 – Spring 2025)   
-  Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
-
-- **BAIL LAP - DCL(Deep Coherence Learning)** (Winter 2024 - Present)   
+- **BAIL LAP - DCL(Deep Coherence Learning)** (2024.12 - Present)   
   Studying deep learning techniques to enhance ultrasound image resolution
   Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
 
