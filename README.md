@@ -34,11 +34,11 @@ Exploring Computer Vision and Beyond</p>
 - **GDGoC** (2024.08 – 2025.08)   
   Participated in project-based learning using Kaggle datasets  
   Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
-<!--
-- **BAIL LAP - DCL(Deep Coherence Learning)** (2024.12 - Present)   
+  
+- **BAIL LAP - DCL(Deep Coherence Learning)** (2024.12 - 2025.08)   
   Studying deep learning techniques to enhance ultrasound image resolution
   Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
--->
+
 ---
 
 ### Tech Stack
