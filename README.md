@@ -39,6 +39,11 @@ Exploring Optimization and Computer Vision — and Beyond</p>
   Studying deep learning techniques to enhance ultrasound image resolution
   Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
 
+- **Applied AI Lab – Federated Inference Research** (2025.08 – Present)   
+  Conducting research on federated inference frameworks for collaborative AI model deployment
+  Studying incentive mechanisms to encourage reliable and efficient participation in federated inference
+  Currently participating in an industry project with Naver Pay
+
 ---
 
 ### Tech Stack
@@ -64,7 +69,7 @@ Exploring Optimization and Computer Vision — and Beyond</p>
 ---
 
 ### Certificates (Expected)
-- **ADSP (Advanced Data Science Professional)** – _Expected 2025_   
+- **ADSP (Advanced Data Science Professional)** (2025.09)
   Studying data analysis, statistics, and data-based decision making.
 
 - **SQLD (SQL Developer)** – _Expected 2025_   
