@@ -68,7 +68,7 @@ Exploring Optimization and Computer Vision — and Beyond</p>
   that generates natural language summaries and helps manage schedules
 ---
 
-### Certificates (Expected)
+### Certificates
 - **ADSP (Advanced Data Science Professional)** (2025.09)  
   Studying data analysis, statistics, and data-based decision making.
 
