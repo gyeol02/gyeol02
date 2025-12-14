@@ -26,23 +26,23 @@ Exploring Optimization and Computer Vision — and Beyond</p>
 
 ### Activities
 - **COMA** (2024.03 - 2024.11)   
-  Studied a wide range of fundamental topics in artificial intelligence, including core theories and algorithms
+  - Studied a wide range of fundamental topics in artificial intelligence, including core theories and algorithms
   
 - **DSCREW** (2024.03 – 2025.08)   
-  Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
+  - Joined a long-term study group focused on understanding and implementing machine learning and deep learning models
 
 - **GDGoC** (2024.08 – 2025.08)   
-  Participated in project-based learning using Kaggle datasets  
-  Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
+  - Participated in project-based learning using Kaggle datasets  
+  - Focused on time series analysis (e.g., stock forecasting) and developed an LLM-based scheduling assistant
   
 - **BAIL LAP - DCL(Deep Coherence Learning)** (2024.12 - 2025.08)   
-  Studying deep learning techniques to enhance ultrasound image resolution  
-  Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
+  - Studying deep learning techniques to enhance ultrasound image resolution  
+  - Applying convolutional neural networks such as U-Net to improve the quality of medical ultrasound images
 
 - **Applied AI Lab – Federated Inference Research** (2025.09 – Present)   
-  Conducting research on federated inference frameworks for collaborative AI model deployment  
-  Studying incentive mechanisms to encourage reliable and efficient participation in federated inference  
-  Currently participating in an industry project with Naver Pay
+  - Conducting research on federated learning frameworks
+  - Studying federated learning under multi-modal and non-IID settings using CLIP and LoRA  
+  - Currently participating in an industry project with [Naver Pay](https://www.naverfincorp.com/)
 
 ---
 
