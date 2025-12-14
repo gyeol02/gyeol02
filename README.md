@@ -71,9 +71,3 @@ Exploring Optimization and Computer Vision — and Beyond</p>
 ### Certificates
 - **ADSP (Advanced Data Science Professional)** (2025.09)  
   Studying data analysis, statistics, and data-based decision making.
-
-- **SQLD (SQL Developer)** – _Expected 2025_   
-  Preparing for relational database design and SQL query optimization.
-
-- **Linux Master Level 2** – _Expected 2025_   
-  Learning Linux system management, shell commands, and basic networking.
